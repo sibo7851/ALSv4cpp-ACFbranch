@@ -1,4 +1,9 @@
-# Advanced Locomotion System V4 on C++
+# Advanced Locomotion System V4 on C++ with ACF Hooks
+
+This takes the awesome ALSv4Cpp plugin and adds hooks for ACF so that you can drop it into existing ACF projects and get the functionality of ACF with the locomotion of ALS.  
+
+NOTE: This is extremely bare bones and at this time does not port over any of the attack animations from the ACF character into ALS, this is strictly ALSv4 working under the ACF system.
+
 ![image](https://github.com/dyanikoglu/ALSV4_CPP/raw/main/Resources/Readme_Content_2.gif)
 
 Replicated & optimized C++ port of [Advanced Locomotion System V4](https://www.unrealengine.com/marketplace/en-US/product/advanced-locomotion-system-v1) for **Unreal Engine 4.25** with additional bug fixes.
